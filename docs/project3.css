@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300&family=Montserrat+Subrayada:wght@400;700&family=Montserrat:wght@300&family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin:100px 0;
+}
+
+
+
+.card{
+    display: flex;
+width: 900px;
+height:500px;
+background-color: black;
+color: white;
+font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.first{
+    display: flex;
+    flex-direction: column;
+    
+    background-color: hsl(31, 77%, 52%);
+    width: 300px;
+    height: 100%;
+}
+
+
+
+.head {
+width: 180px;
+padding:0 50px;
+}
+
+
+.sed{
+ margin:35px 0;
+}
+
+
+.para{
+    margin-top: 30px;
+    margin-bottom: 75px;
+}
+
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   width:8rem;
+    min-height: 40px;
+    background-color: white;
+    color:  hsl(31, 77%, 52%);
+    border-radius: 50px;
+    margin: 0 50px;
+    margin-bottom: 30px;
+   
+    
+}
+
+
+
+.img1{
+    padding:0 50px;
+    margin-top: 60px;
+   
+}
+
+
+
+
+
+.second{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color:  hsl(184, 100%, 22%);
+    width: 300px;
+    height: 100%;
+}
+
+
+
+.head2{
+width: 180px;
+padding:0 50px;
+}
+
+
+.suv{
+    margin:35px 0;
+}
+
+
+.para2{
+    margin-top: 30px;
+    margin-bottom: 75px;
+}
+
+.btn2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 8rem;
+    min-height: 40px;
+    background-color: white;
+    color:  hsl(184, 100%, 22%);
+    border-radius: 50px;
+    margin: 0 50px;
+    margin-bottom: 40px;
+}
+
+
+
+.img2{
+    padding:0 50px;
+    margin-top: 60px;
+}
+
+
+
+
+
+
+
+.third{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: hsl(179, 100%, 13%);
+    width: 300px;
+    height: 100%;
+}
+
+
+
+.head3{
+width: 180px;
+padding:0 50px;
+}
+
+
+.btn3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 8rem;
+    height: 40px;
+    background-color: white;
+    color: hsl(179, 100%, 13%);
+    border-radius: 50px;
+    margin: 0 50px;
+    margin-bottom: 40px;
+}
+
+
+.lux{
+    margin:35px 0;  
+}
+
+
+.para3{
+    margin-top: 30px;
+    margin-bottom: 75px;
+}
+
+
+.img3{
+    padding:0 50px;
+    margin-top: 60px;
+}
+
+
